@@ -1,28 +1,185 @@
 .headr_block1 {
   display: flex;
-  flex-direction: row;
+  width: 1920px;
+  height: 137px;
   align-items: center;
   justify-content: space-around;
-  width: 100%;
-}
-.headr_block1 {
-  background: linear-gradient(110.58deg, #df45ec 1.54%, #3257da 100%);
 }
 .block_blocka1_element1 {
   display: flexbox;
+  width: 145px;
+height: 53px;
 }
 .block_blocka1_element2 {
   display: flexbox;
+  width: 974px;
+  height: 53px;
+}
+.stroka1 {
+  margin-left: 350px;
 }
 .stroka1 li {
   display: inline;
-  margin-right: 50px;
-  font-family: "Nunito Sans";
+  margin-left: 75px;
+  font-family: 'Nunito Sans';
+  font-family: 'Nunito Sans';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8ccewI9tScg.woff2)
-    format("woff2");
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
-    U+FE2E-FE2F;
+  font-size: 18px;
+  line-height: 180%;
+  color: #FFFFFF;
+  opacity: .5;
+}
+.headr_block2 {
+  display: flex;
+}
+.block_blocka2_element1 {
+  position: absolute;
+width: 546px;
+height: 243px;
+left: 150px;
+top: 255px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 900;
+font-size: 62px;
+line-height: 130%;
+letter-spacing: 0.01em;
+color: #FFFFFF;
+}
+.block_blocka2_element2 {
+  position: absolute;
+  width: 410px;
+  height: 64px;
+  left: 150px;
+  top: 521.99px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: #FFFFFF;
+  
+  opacity: 0.8;
+}
+.block_blocka2_element3 {
+  position: absolute;
+  width: 201px;
+  height: 62px;
+  left: 150px;
+  top: 618.99px;
+  font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 180%;
+  background: linear-gradient(98.3deg, #FFB443 -6.86%, #B213DA 195.79%);
+}
+.text_headr {
+  padding-left: 51px;
+  padding-top: 15px;
+}
+.block_blocka3_element1 {
+  position: absolute;
+width: 200px;
+height: 62px;
+left: 150px;
+top: 929px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 44px;
+line-height: 140%;
+text-align: center;
+letter-spacing: 0.01em;
+
+background: linear-gradient(98.3deg, #FFB443 -6.86%, #B213DA 195.79%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+.headr_block3 {
+background-color: white;
+}
+.block_blocka3_element1 {
+
+}
+.block_block_blocka3_element1 {
+  position: absolute;
+  width: 200px;
+  height: 62px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 140%;
+  
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  background: linear-gradient(98.3deg, #FFB443 -6.86%, #B213DA 195.79%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.block_block_blocka3_element2 {
+  position: absolute;
+  width: 140px;
+  height: 47px;
+  left: 179px;
+  top: 1009px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 180%;
+  text-align: center;
+  
+  color: #363A45;
+}
+.block_blocka3_element2 {
+
+}
+.block_block_blocka3_element3 {
+  position: absolute;
+  width: 107px;
+  height: 62px;
+  left: 538px;
+  top: 929px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 140%;
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  background: linear-gradient(98.3deg, #FFB443 -6.86%, #B213DA 195.79%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.block_block_blocka3_element4 {
+  position: absolute;
+  width: 152px;
+  height: 47px;
+  left: 515px;
+  top: 1009px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 180%;
+  text-align: center;
+  color: #363A45;
 }

@@ -1,5 +1,6 @@
 header {
-  width: 100%;
-  height: 100px;
-  background: #d8e3ab;
+  position: absolute;
+width: 1920px;
+height: 873px;
+background: linear-gradient(-70deg, #DF45EC 1.54%, #3257DA 100%);
 }
