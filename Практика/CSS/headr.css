@@ -1,6 +1,6 @@
-header {
+.headr {
   position: absolute;
-width: 1920px;
-height: 873px;
-background: linear-gradient(-70deg, #DF45EC 1.54%, #3257DA 100%);
+  width: 1920px;
+  height: 873px;
+  background: linear-gradient(-70deg, #df45ec 1.54%, #3257da 100%);
 }
